@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-06-14T14:59:39+09:00
+
+====== git ======
+Created 목요일 14 6월 2018
+
+USER@USER-PC MINGW32 /d/1.윤여경/Notebooks (master)
+'''
+$ ls -al
+total 12
+drwxr-xr-x 1 USER 197121 0 6월  14 15:03 ./
+drwxr-xr-x 1 USER 197121 0 6월  14 14:40 ../
+drwxr-xr-x 1 USER 197121 0 6월  14 15:21 .git/
+drwxr-xr-x 1 USER 197121 0 6월  14 15:24 Notes/
+'''
+
+
