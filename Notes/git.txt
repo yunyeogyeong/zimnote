@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-06-14T15:44:19+09:00
+
+====== git ======
+Created 목요일 14 6월 2018
+
+짐 노트의 Notebooks폴더안에서 Git Bash here을 실행함. 
+
+ls -al을 입력해서 현재 폴더 상태를 확인한다.
+git init로 깃 설정한다.
+git status로 마스터를 설정한다. 
+git 에 공유할 파일을 설정한다. (git add --all .)
+git commit -m "zimnote 시작"으로 깃 허브에 커밋메시지를 설정한다. 
+git remote add origin https://github.com/yunyeogyeong/zimnote.git 깃 허브 추가한다.
+git push -u origin master 로 깃허브에 로그인한다. 
