@@ -8,9 +8,9 @@ Created 목요일 14 6월 2018
 짐 노트의 Notebooks폴더안에서 Git Bash here을 실행함. 
 
 ls -al을 입력해서 현재 폴더 상태를 확인한다.
-git init로 깃 설정한다.
-git status로 마스터를 설정한다. 
-git 에 공유할 파일을 설정한다. (git add --all .)
+git init로 깃을 설정하면 (master) 가 생긴다.
+git status로 깃의 현재 상태확인하기. 
+git 에 공유할 파일을 설정한다. (git add --all .)현재 디렉토리에 있는 모든것을 add한다. 
 git commit -m "zimnote 시작"으로 깃 허브에 커밋메시지를 설정한다. 
 git remote add origin https://github.com/yunyeogyeong/zimnote.git 깃 허브 추가한다.
-git push -u origin master 로 깃허브에 로그인한다. 
+git push -u(올린다.) origin(원격저장소) master 로 깃허브에 올린다. 
